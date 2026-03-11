@@ -1,0 +1,47 @@
+@InsightHub_HostAddress = http://localhost:5043
+
+###
+# Test API
+GET {{InsightHub_HostAddress}}/api/test
+Accept: application/json
+
+###
+# Register User
+POST {{InsightHub_HostAddress}}/api/users/register
+Content-Type: application/json
+
+{
+  "firstName": "Nour",
+  "lastName": "Mohamed",
+  "userName": "nour5080",
+  "gender": 1,
+  "birthDate": "2000-05-10",
+  "collage": "Computer Science",
+  "isgraduated": false,
+  "userJobs": [
+    {
+      "jobId": 1
+    },
+    {
+      "jobId": 2
+    }
+  ],
+  "email": "nour@example.com",
+  "password": "123456",
+  "confirmPassword": "123456"
+}
+
+###
+# Get All Users
+GET {{InsightHub_HostAddress}}/api/users
+Accept: application/json
+
+###
+# Get User By Id
+GET {{InsightHub_HostAddress}}/api/users/1
+Accept: application/json
+
+###
+# Delete User
+DELETE {{InsightHub_HostAddress}}/api/users/1
+Accept: application/json
