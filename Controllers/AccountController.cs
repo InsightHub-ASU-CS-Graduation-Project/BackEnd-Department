@@ -66,6 +66,7 @@ namespace InsightHub.Controllers
             var user = new ApplicationUser
             {
                 Email = model.Email,
+                UserName = model.Email,
                 FirstName = model.FirstName,
                 LastName = model.LastName,
                 Gender = model.Gender,
@@ -104,7 +105,8 @@ namespace InsightHub.Controllers
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-           var user = await _userManager.FindByNameAsync(model.Email);
+            var user = await _userManager.FindByEmailAsync(model.Email)
+                ?? await _userManager.FindByNameAsync(model.Email);
             if (user == null) return Unauthorized("Invalid username or password");
 
             var result = await _signInManager.CheckPasswordSignInAsync(user, model.Password, false);
@@ -116,7 +118,7 @@ namespace InsightHub.Controllers
             return Ok(new {
                 token = token,
                 expiration = DateTime.UtcNow.AddHours(3),
-                username = user.UserName,
+                username = user.UserName ?? user.Email,
                 firstName = user.FirstName
             });
         }
@@ -137,6 +139,7 @@ namespace InsightHub.Controllers
                 new Claim(JwtRegisteredClaimNames.Sub, user.Email),
                 new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
                 new Claim(ClaimTypes.NameIdentifier, user.Id),
+                new Claim(ClaimTypes.Name, user.UserName ?? user.Email),
                 new Claim("FirstName", user.FirstName)
             };
 

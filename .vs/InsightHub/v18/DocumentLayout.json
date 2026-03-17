@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\graduation project\\BackEnd-Department-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\migrations\\20260307014225_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:migrations\\20260307014225_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\migrations\\20260307014225_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:migrations\\20260307014225_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,19 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "20260307014225_Init.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Migrations\\20260307014225_Init.cs",
               "RelativeDocumentMoniker": "Migrations\\20260307014225_Init.cs",
               "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Migrations\\20260307014225_Init.cs",
               "RelativeToolTip": "Migrations\\20260307014225_Init.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAACUAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T01:42:25.531Z"
+              "WhenOpened": "2026-03-07T01:42:25.531Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
@@ -97,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
@@ -109,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
@@ -121,13 +122,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAqwFYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-07T01:11:33.794Z",
               "EditorCaption": ""
