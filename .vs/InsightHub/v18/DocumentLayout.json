@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "E:\\graduation project\\BackEnd-Department-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\migrations\\20260307014225_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:migrations\\20260307014225_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\models\\userjop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:models\\userjop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\insighthub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:insighthub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +27,16 @@
       "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\migrations\\20260307014225_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:migrations\\20260307014225_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,10 +56,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\graduation project\\InsightHub\\InsightHub\\BackEnd-Department\\Migrations\\20260307012944_Ubdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|e:\\graduation project\\backend-department-main\\models\\userjop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BE93903-E8DE-BA06-7DED-7CEE8BCDA817}|InsightHub.csproj|solutionrelative:models\\userjop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,7 +65,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,32 +77,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260307014225_Init.cs",
-              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Migrations\\20260307014225_Init.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260307014225_Init.cs",
-              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Migrations\\20260307014225_Init.cs",
-              "RelativeToolTip": "Migrations\\20260307014225_Init.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADcAAABCAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T01:42:25.531Z",
+              "WhenOpened": "2026-03-07T01:08:34.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T01:11:33.794Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Models\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
-              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Models\\AppDbContext.cs",
-              "RelativeToolTip": "Models\\AppDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBMAAABEAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv4MAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T00:52:53.634Z"
+              "WhenOpened": "2026-03-07T01:24:40.054Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "InsightHub.csproj",
+              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\InsightHub.csproj",
+              "RelativeDocumentMoniker": "InsightHub.csproj",
+              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\InsightHub.csproj",
+              "RelativeToolTip": "InsightHub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T07:53:59.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserJop.cs",
+              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Models\\UserJop.cs",
+              "RelativeDocumentMoniker": "Models\\UserJop.cs",
+              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Models\\UserJop.cs",
+              "RelativeToolTip": "Models\\UserJop.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T00:54:17.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
@@ -110,32 +150,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\ViewModels\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
-              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\ViewModels\\RegisterViewModel.cs",
-              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwDEAAAAzAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T01:08:34.845Z"
+              "WhenOpened": "2026-03-07T00:52:53.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAqwEoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "20260307014225_Init.cs",
+              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Migrations\\20260307014225_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260307014225_Init.cs",
+              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Migrations\\20260307014225_Init.cs",
+              "RelativeToolTip": "Migrations\\20260307014225_Init.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T01:11:33.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T01:42:25.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
@@ -147,19 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T01:24:40.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "RequestLoggingMiddleware.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Middlewares\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "Middlewares\\RequestLoggingMiddleware.cs",
@@ -171,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Jop.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Models\\Jop.cs",
               "RelativeDocumentMoniker": "Models\\Jop.cs",
@@ -183,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -195,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
@@ -207,19 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserJop.cs",
-              "DocumentMoniker": "E:\\graduation project\\BackEnd-Department-main\\Models\\UserJop.cs",
-              "RelativeDocumentMoniker": "Models\\UserJop.cs",
-              "ToolTip": "E:\\graduation project\\BackEnd-Department-main\\Models\\UserJop.cs",
-              "RelativeToolTip": "Models\\UserJop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T00:54:17.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20260307012944_Ubdate.cs",
               "DocumentMoniker": "E:\\graduation project\\InsightHub\\InsightHub\\BackEnd-Department\\Migrations\\20260307012944_Ubdate.cs",
               "RelativeDocumentMoniker": "..\\InsightHub\\InsightHub\\BackEnd-Department\\Migrations\\20260307012944_Ubdate.cs",

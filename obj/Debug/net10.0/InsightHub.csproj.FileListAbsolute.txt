@@ -814,6 +814,7 @@ E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.Assem
 E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.csproj.CoreCompileInputs.cache
 E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cs
 E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cache
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.sourcelink.json
 E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\rjimswa.dswa.cache.json
 E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
@@ -830,4 +831,3 @@ E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\refint\InsightHu
 E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.pdb
 E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.genruntimeconfig.cache
 E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\ref\InsightHub.dll
-E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.sourcelink.json

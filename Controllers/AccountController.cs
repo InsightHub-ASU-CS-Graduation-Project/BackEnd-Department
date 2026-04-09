@@ -94,7 +94,13 @@ namespace InsightHub.Controllers
             }
             await _context.SaveChangesAsync();
 
-            return Ok(new { message = "User registered successfully" });
+            var token = GenerateJwtToken(user);
+
+            return Ok(new { 
+                token = token,
+                expiration = DateTime.UtcNow.AddDays(1),
+                message = "User registered successfully" 
+            });
         }
 
         // ================= LOGIN =================
@@ -117,7 +123,7 @@ namespace InsightHub.Controllers
 
             return Ok(new {
                 token = token,
-                expiration = DateTime.UtcNow.AddHours(3),
+                expiration = DateTime.UtcNow.AddDays(1),
                 username = user.UserName ?? user.Email,
                 firstName = user.FirstName
             });
@@ -136,16 +142,17 @@ namespace InsightHub.Controllers
         {
             var claims = new List<Claim>
             {
-                new Claim(JwtRegisteredClaimNames.Sub, user.Email),
-                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+                new Claim(JwtRegisteredClaimNames.Sub, user.Id),
                 new Claim(ClaimTypes.NameIdentifier, user.Id),
-                new Claim(ClaimTypes.Name, user.UserName ?? user.Email),
-                new Claim("FirstName", user.FirstName)
+                new Claim(ClaimTypes.Name, user.UserName ?? user.Email ?? string.Empty),
+                new Claim(JwtRegisteredClaimNames.Email, user.Email ?? string.Empty),
+                new Claim("FirstName", user.FirstName ?? string.Empty),
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
             };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-            var expires = DateTime.UtcNow.AddHours(3);
+            var expires = DateTime.UtcNow.AddDays(1);
 
             var token = new JwtSecurityToken(
                 issuer: _configuration["Jwt:Issuer"],
