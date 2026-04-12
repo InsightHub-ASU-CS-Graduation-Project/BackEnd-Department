@@ -1,0 +1,1111 @@
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\appsettings.Development.json
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\appsettings.json
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\InsightHub.staticwebassets.endpoints.json
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\InsightHub.exe
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\InsightHub.deps.json
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\InsightHub.runtimeconfig.json
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\InsightHub.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\InsightHub.pdb
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.csproj.AssemblyReference.cache
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.GeneratedMSBuildEditorConfig.editorconfig
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.AssemblyInfoInputs.cache
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.AssemblyInfo.cs
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.csproj.CoreCompileInputs.cache
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cs
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cache
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\scopedcss\bundle\InsightHub.styles.css
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\staticwebassets.build.json
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\staticwebassets.development.json
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\swae.build.ex.cache
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.csproj.Up2Date
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.dll
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\refint\InsightHub.dll
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.pdb
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\InsightHub.genruntimeconfig.cache
+E:\graduation project\InsightHub\InsightHub\obj\Debug\net10.0\ref\InsightHub.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Azure.Core.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Azure.Identity.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Humanizer.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.Build.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.Features.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.Razor.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.DiaSymReader.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\dotnet-aspnet-codegenerator-design.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\NuGet.Common.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\NuGet.Configuration.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\NuGet.DependencyResolver.Core.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\NuGet.Frameworks.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\NuGet.LibraryModel.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\NuGet.Packaging.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\NuGet.ProjectModel.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\NuGet.Protocol.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\NuGet.Versioning.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.ClientModel.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.CodeDom.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.Memory.Data.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\af\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ar\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\az\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\bg\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\bn-BD\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\da\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\el\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fa\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fi-FI\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr-BE\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\he\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\hr\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\hu\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\hy\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\id\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\is\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko-KR\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ku\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\lv\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ms-MY\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\mt\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\nb\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\nb-NO\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\nl\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ro\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\sk\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\sl\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\sr\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\sr-Latn\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\sv\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\th-TH\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\uk\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\vi\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-CN\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\graduation project\InsightHub\InsightHub\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\appsettings.Development.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\appsettings.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\InsightHub.staticwebassets.endpoints.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\InsightHub.exe
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\InsightHub.deps.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\InsightHub.runtimeconfig.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\InsightHub.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\InsightHub.pdb
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Azure.Core.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Azure.Identity.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Humanizer.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.Build.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Features.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Razor.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.DiaSymReader.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\dotnet-aspnet-codegenerator-design.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\NuGet.Common.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\NuGet.Configuration.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\NuGet.DependencyResolver.Core.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\NuGet.Frameworks.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\NuGet.LibraryModel.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\NuGet.Packaging.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\NuGet.ProjectModel.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\NuGet.Protocol.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\NuGet.Versioning.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.ClientModel.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.CodeDom.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.Memory.Data.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\af\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ar\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\az\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\bg\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\bn-BD\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\da\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\el\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fa\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fi-FI\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr-BE\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\he\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\hr\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\hu\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\hy\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\id\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\is\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko-KR\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ku\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\lv\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ms-MY\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\mt\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\nb\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\nb-NO\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\nl\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ro\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\sk\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\sl\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\sr\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\sr-Latn\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\sv\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\th-TH\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\uk\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\vi\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-CN\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Humanizer.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.csproj.AssemblyReference.cache
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.GeneratedMSBuildEditorConfig.editorconfig
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.AssemblyInfoInputs.cache
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.AssemblyInfo.cs
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.csproj.CoreCompileInputs.cache
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cs
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cache
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\scopedcss\bundle\InsightHub.styles.css
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\staticwebassets.build.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\staticwebassets.development.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\swae.build.ex.cache
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.csproj.Up2Date
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\refint\InsightHub.dll
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.pdb
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\InsightHub.genruntimeconfig.cache
+E:\graduation project\InsightHub\InsightHub\BackEnd-Department\obj\Debug\net10.0\ref\InsightHub.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\appsettings.Development.json
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\appsettings.json
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\InsightHub.staticwebassets.endpoints.json
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\InsightHub.exe
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\InsightHub.deps.json
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\InsightHub.runtimeconfig.json
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\InsightHub.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\InsightHub.pdb
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Azure.Core.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Azure.Identity.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Humanizer.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.Build.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Features.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Razor.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.DiaSymReader.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\dotnet-aspnet-codegenerator-design.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\NuGet.Common.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\NuGet.Configuration.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\NuGet.DependencyResolver.Core.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\NuGet.Frameworks.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\NuGet.LibraryModel.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\NuGet.Packaging.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\NuGet.ProjectModel.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\NuGet.Protocol.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\NuGet.Versioning.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.ClientModel.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.CodeDom.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.Memory.Data.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\af\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ar\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\az\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\bg\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\bn-BD\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\da\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\el\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fa\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fi-FI\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr-BE\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\he\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\hr\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\hu\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\hy\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\id\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\is\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko-KR\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ku\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\lv\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ms-MY\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\mt\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\nb\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\nb-NO\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\nl\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ro\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\sk\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\sl\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\sr\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\sr-Latn\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\sv\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\th-TH\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\uk\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\vi\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-CN\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Humanizer.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\graduation project\BackEnd-Department-main\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.csproj.AssemblyReference.cache
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.GeneratedMSBuildEditorConfig.editorconfig
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.AssemblyInfoInputs.cache
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.AssemblyInfo.cs
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.csproj.CoreCompileInputs.cache
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cs
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cache
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.sourcelink.json
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\scopedcss\bundle\InsightHub.styles.css
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\staticwebassets.build.json
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\staticwebassets.development.json
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\swae.build.ex.cache
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.csproj.Up2Date
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.dll
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\refint\InsightHub.dll
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.pdb
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\InsightHub.genruntimeconfig.cache
+E:\graduation project\BackEnd-Department-main\obj\Debug\net10.0\ref\InsightHub.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\appsettings.Development.json
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\appsettings.json
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\InsightHub.staticwebassets.endpoints.json
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\InsightHub.exe
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\InsightHub.deps.json
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\InsightHub.runtimeconfig.json
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\InsightHub.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\InsightHub.pdb
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Azure.Core.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Azure.Identity.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Humanizer.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.Build.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Elfie.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Features.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.DiaSymReader.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.OpenApi.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\dotnet-aspnet-codegenerator-design.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Mono.TextTemplating.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Newtonsoft.Json.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\NuGet.Common.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\NuGet.Configuration.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\NuGet.DependencyResolver.Core.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\NuGet.Frameworks.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\NuGet.LibraryModel.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\NuGet.Packaging.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\NuGet.ProjectModel.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\NuGet.Protocol.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\NuGet.Versioning.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.ClientModel.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.CodeDom.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.Composition.Convention.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.Composition.Hosting.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.Composition.Runtime.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.Composition.TypedParts.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.Memory.Data.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\af\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ar\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\az\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\bg\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\bn-BD\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\da\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\el\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fa\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fi-FI\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr-BE\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\he\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\hr\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\hu\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\hy\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\id\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\is\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko-KR\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ku\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\lv\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ms-MY\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\mt\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\nb\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\nb-NO\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\nl\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ro\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\sk\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\sl\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\sr\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\sr-Latn\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\sv\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\th-TH\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\uk\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\uz-Cyrl-UZ\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\uz-Latn-UZ\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\vi\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-CN\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Humanizer.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mohamed\Projects\BackEnd-Department\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.csproj.AssemblyReference.cache
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\rpswa.dswa.cache.json
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.AssemblyInfoInputs.cache
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.AssemblyInfo.cs
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.csproj.CoreCompileInputs.cache
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cs
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.MvcApplicationPartsAssemblyInfo.cache
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\rjimswa.dswa.cache.json
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\scopedcss\bundle\InsightHub.styles.css
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\staticwebassets.build.json
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\staticwebassets.build.json.cache
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\staticwebassets.development.json
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\swae.build.ex.cache
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.csproj.Up2Date
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.dll
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\refint\InsightHub.dll
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.pdb
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\InsightHub.genruntimeconfig.cache
+G:\Mohamed\Projects\BackEnd-Department\obj\Debug\net10.0\ref\InsightHub.dll
